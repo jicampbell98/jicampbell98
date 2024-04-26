@@ -33,12 +33,19 @@ My journey in economics and programming has led me to develop an interest for da
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Python%20Data%20Analysis%20%26%20Visualization%20Masterclass-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-The%20Ultimate%20MySQL%20Bootcamp-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-The%20Git%20%26%20Github%20Bootcamp-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
-!R Programming A-Z™: R For Data Science With Real Exercises
-</div>
+
+- Python Data Analysis & Visualization Masterclass (Udemy)
+  - Pandas
+  - Matplotlib
+  - Seaborn
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy)
+  - MySQL
+- R Programming A-Z™: R For Data Science With Real Exercises! (Udemy)
+  - RStudio
+  - GGPlot2
+- The Git & Github Bootcamp (Udemy)
+  - Git
+  - Github
 
 ## Projects
 - Market Basket Analysis
