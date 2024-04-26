@@ -24,6 +24,7 @@ My journey in economics and programming has led me to develop an interest for da
     <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Matplotlib-013243?&style=for-the-badge&logo=Matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/-Seaborn-8C1515?&style=for-the-badge&logo=Seaborn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ggplot2-FF0000?&style=for-the-badge&logo=ggplot2&logoColor=white" />
 </div>
 
 ### Data Manipulation
