@@ -48,4 +48,4 @@ My journey in economics and programming has led me to develop an interest for da
   - Github
 
 ## Projects
-- Market Basket Analysis
+- <a href="https://github.com/jicampbell98/Market-Basket-Analysis.git">Market Basket Analysis</a>
