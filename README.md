@@ -13,7 +13,7 @@ My journey in economics and programming has led me to develop an interest for da
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Data Visualization with Matplotlib and Seaborn  | <a href="https://github.com/jicampbell98/Market-Basket-Analysis.git">Market Basket Analysis < /a>|
+| Data Visualization with Matplotlib and Seaborn  | <a href="https://github.com/jicampbell98/Market-Basket-Analysis.git">Market Basket Analysis</a>|
 
 
 ## Tools
