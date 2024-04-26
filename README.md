@@ -34,9 +34,11 @@ My journey in economics and programming has led me to develop an interest for da
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Data%20Science%20with%20Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Machine%20Learning%20with%20Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python%20Data%20Analysis%20%26%20Visualization%20Masterclass-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-The%20Ultimate%20MySQL%20Bootcamp-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-R%20Programming%20A-Z™:%20R%20For%20Data%20Science%20With%20Real%20Exercises-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/-The%20Git%20%26%20Github%20Bootcamp-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
 
 ## Projects
-- Market Basket Analysis 
+- Market Basket Analysis
