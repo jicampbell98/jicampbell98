@@ -7,7 +7,7 @@ I'm training to become a data scientist, and I like problem solving and working 
 
 ## Objective
 
-My journey in economics and programming has led me to develop an interest for data analysis and machine learning. Despite the lack of formal data science programs in my country, I hope to learn by myself through textbooks and projects, to develop a good foundation that allows me to study and understand machine learning in the near future. 
+My journey in economics and programming has led me to develop an interest for data analysis and machine learning. Despite the lack of formal data science programs in my country, I hope to learn by myself through textbooks and projects, to develop a good foundation that allows me to study and understand machine learning in the near future. I also enjoy doing small projects and apps that can help me improve my skillset.
 
 ## Skills
 
