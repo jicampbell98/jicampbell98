@@ -49,6 +49,5 @@ My journey in economics and programming has led me to develop an interest for da
 
 ## Projects
 
-- <a href="https://github.com/jicampbell98/Market-Basket-Analysis.git">Market Basket Analysis</a>  
 - <a href="https://github.com/jicampbell98/ligafutve">Venezuelan Primera División Dashboard</a>  
 - <a href="https://github.com/jicampbell98/scrollblocker-portfolio">ScrollBlocker – Windows utility app to prevent accidental scrolling</a>
