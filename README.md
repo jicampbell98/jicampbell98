@@ -14,7 +14,6 @@ My journey in economics and programming has led me to develop an interest for da
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Data Visualization with Power BI                | <a href="https://github.com/jicampbell98/ligafutve">Venezuelan Primera División Dashboard</a> |
-| GUI Desktop App Development with Python         | <a href="https://github.com/jicampbell98/scrollblocker-portfolio">ScrollBlocker</a> |
 
 ## Tools
 
@@ -50,4 +49,3 @@ My journey in economics and programming has led me to develop an interest for da
 ## Projects
 
 - <a href="https://github.com/jicampbell98/ligafutve">Venezuelan Primera División Dashboard</a>  
-- <a href="https://github.com/jicampbell98/scrollblocker-portfolio">ScrollBlocker – Windows utility app to prevent accidental scrolling</a>
