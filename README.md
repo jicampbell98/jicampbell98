@@ -1,13 +1,12 @@
-# Hello, I'm Juan Campbell  
-<a href="https://www.linkedin.com/in/juan-ignacio-campbell-rincon-b89329211/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Juan Campbell
 
 ## Introduction
 
-I'm studying to become a data analyst & full-stack developer, and I like problem solving and working with data.
+Economics, entrepreneur, and co-founder of Bumi.
 
 ## Objective
 
-My journey in economics and programming has led me to develop an interest for data analysis and full-stack development.
+Right now I'm interested in financial microstructures, with a focus on building solutions for real-world problems.
 
 ## Skills
 
